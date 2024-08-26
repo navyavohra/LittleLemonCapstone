@@ -94,6 +94,8 @@
 		D53303E72C7C9A5700C2FD66 /* LittleLemon */ = {
 			isa = PBXGroup;
 			children = (
+				D53304132C7CA05200C2FD66 /* View */,
+				D53304122C7CA04B00C2FD66 /* Model */,
 				D53303E82C7C9A5700C2FD66 /* LittleLemonApp.swift */,
 				D53303EA2C7C9A5700C2FD66 /* ContentView.swift */,
 				D53303EC2C7C9A5B00C2FD66 /* Assets.xcassets */,
@@ -125,6 +127,20 @@
 				D53304052C7C9A5B00C2FD66 /* LittleLemonUITestsLaunchTests.swift */,
 			);
 			path = LittleLemonUITests;
+			sourceTree = "<group>";
+		};
+		D53304122C7CA04B00C2FD66 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D53304132C7CA05200C2FD66 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
