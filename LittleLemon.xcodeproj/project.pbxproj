@@ -17,6 +17,8 @@
 		D53304162C7CA0E700C2FD66 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53304152C7CA0E700C2FD66 /* User.swift */; };
 		D53304182C7CA36200C2FD66 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53304172C7CA36200C2FD66 /* MenuItem.swift */; };
 		D533041A2C7CA39A00C2FD66 /* MenuCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53304192C7CA39A00C2FD66 /* MenuCategory.swift */; };
+		D533041C2C7CA3ED00C2FD66 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D533041B2C7CA3ED00C2FD66 /* OnboardingView.swift */; };
+		D533041E2C7CA41E00C2FD66 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D533041D2C7CA41E00C2FD66 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +52,8 @@
 		D53304152C7CA0E700C2FD66 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		D53304172C7CA36200C2FD66 /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		D53304192C7CA39A00C2FD66 /* MenuCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuCategory.swift; sourceTree = "<group>"; };
+		D533041B2C7CA3ED00C2FD66 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		D533041D2C7CA41E00C2FD66 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +152,8 @@
 		D53304132C7CA05200C2FD66 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				D533041B2C7CA3ED00C2FD66 /* OnboardingView.swift */,
+				D533041D2C7CA41E00C2FD66 /* HomeView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -283,8 +289,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D53303EB2C7C9A5700C2FD66 /* ContentView.swift in Sources */,
+				D533041E2C7CA41E00C2FD66 /* HomeView.swift in Sources */,
 				D53304182C7CA36200C2FD66 /* MenuItem.swift in Sources */,
 				D53303E92C7C9A5700C2FD66 /* LittleLemonApp.swift in Sources */,
+				D533041C2C7CA3ED00C2FD66 /* OnboardingView.swift in Sources */,
 				D53304162C7CA0E700C2FD66 /* User.swift in Sources */,
 				D533041A2C7CA39A00C2FD66 /* MenuCategory.swift in Sources */,
 			);
