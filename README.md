@@ -27,10 +27,10 @@
 
 
 ### Profile Screen
-![Profile Screen](path_to_screenshot_5.png)
+![Profile Screen](https://github.com/user-attachments/assets/5643283b-9937-4d99-b4ce-9d94b3eba0e2)
 
 ## How to Use
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/LittleLemonApp.git
+   git clone https://github.com/navyavohra/LittleLemonApp.git
